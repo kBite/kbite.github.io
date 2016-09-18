@@ -1,0 +1,10 @@
+title: blog.kbite.xyz $
+#description: anything about bits and bytes,
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
+
+github: [metadata]
+github_username: kbite
+
+timezone: Europe/Berlin
